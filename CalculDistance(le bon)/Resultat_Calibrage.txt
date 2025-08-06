@@ -1,0 +1,1 @@
+La distance entre la ligne d'appel et le point d'atterrissage est:

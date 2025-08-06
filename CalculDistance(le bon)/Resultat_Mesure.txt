@@ -1,0 +1,79 @@
+La distance entre la caméra et l'objet est de 1318.7537447524953 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.5469108147575157m
+La distance entre la caméra et l'objet est de 3236.9410098470344 mm
+La distance entre la ligne d'appel et le point d'attérisage est 3.0062912535596977m
+La distance entre la caméra et l'objet est de 613.9026053158169 mm
+La distance entre la ligne d'appel et le point d'attérisage est 1.031078848190793m
+
+La distance entre la caméra et l'objet est de 613.9026053158169 mm
+La distance entre la ligne d'appel et le point d'attérisage est 1.031078848190793m
+
+La distance entre la caméra et l'objet est de 1318.7537447524953 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.5469108147575157m
+
+La distance entre la caméra et l'objet est de 671.8179454399506 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.9943141597024774m
+
+La distance entre la caméra et l'objet est de 684.7375213137957 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.9854615806336842m
+
+La distance entre la caméra et l'objet est de 712.1270221663475 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.9658545979082412m
+
+La distance entre la caméra et l'objet est de 481.1669068691537 mm
+La distance entre la ligne d'appel et le point d'attérisage est 1.0993081495804402m
+
+La distance entre la caméra et l'objet est de 189.39548461870945 mm
+La distance entre la ligne d'appel et le point d'attérisage est 1.184959640834254m
+
+La distance entre la caméra et l'objet est de 176.26906489266028 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.12911538730195127m
+
+La distance entre la caméra et l'objet est de 184.48886584620402 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.1401290177701202m
+
+La distance entre la caméra et l'objet est de 183.53789231091432 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.13887461220083672m
+
+La distance entre la caméra et l'objet est de 174.54093680547734 mm
+La distance entre la ligne d'appel et le point d'attérisage est 1.18723858654403m
+
+La distance entre la caméra et l'objet est de 180.74289902699178 mm
+La distance entre la ligne d'appel et le point d'attérisage est 1.1863102479753425m
+
+La distance entre la caméra et l'objet est de 180.74289902699178 mm
+La distance entre la ligne d'appel et le point d'attérisage est 1.1863102479753425m
+
+La distance entre la caméra et l'objet est de 148.98054857036558 mm
+La distance entre la ligne d'appel et le point d'attérisage est 1.1907160854492869m
+
+La distance entre la caméra et l'objet est de 118.68783702772458 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.4857089636208913m
+
+La distance entre la caméra et l'objet est de 107.08677025057857 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.4883978128916015m
+
+La distance entre la caméra et l'objet est de 712.1270221663475 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.5070748423058569m
+
+La distance entre la caméra et l'objet est de 1186.878370277246 mm
+La distance entre la ligne d'appel et le point d'attérisage est 1.0764201158618187m
+
+La distance entre la caméra et l'objet est de 431.59213464627123 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.2524445073901884m
+
+La distance entre la caméra et l'objet est de 224.29197548546378 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.44687035002652403m
+
+La distance entre la caméra et l'objet est de 222.5396944269836 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.4477455576600897m
+
+La distance entre la caméra et l'objet est de 438.2320136408293 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.24073367487807773m
+
+La distance entre la caméra et l'objet est de 356.06351108317375 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.3510253211310013m
+
+La distance entre la caméra et l'objet est de 63.44116010390624 mm
+La distance entre la ligne d'appel et le point d'attérisage est 0.49595888862351334m
+
